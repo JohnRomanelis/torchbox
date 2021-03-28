@@ -8,7 +8,7 @@ A small library containing tools (toolbox) that will help in the development of 
 *Installation with git will be available in the future!*
 
 ### Add a folder to the PYTHONPATH
-- open a terminal and run: `nano ~/.bash_profile`
-- add the following line to the end: `export PYTHONPATH="...(path to directory).../torchbox_lib"
-- Done!
-- To check the results run a new terminal and run: `echo $PYTHONPATH` 
+1. open a terminal and run: `nano ~/.bash_profile`
+2. add the following line to the end: `export PYTHONPATH="...(path to directory).../torchbox_lib"
+3. Done!
+4. To check the results run a new terminal and run: `echo $PYTHONPATH` 
